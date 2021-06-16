@@ -4,7 +4,7 @@
 
 [- 🌱 I’m currently learning AWS microservices and applying them][repo]
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become AWS Developer certified, create more scalable web apps on AWS
+- 🥅 2021 Goals: Become AWS certified, create more scalable web apps on AWS
 - ⚡ Fun fact: I love to go to the gym
 
 ### Connect with me:
