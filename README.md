@@ -1,10 +1,9 @@
 ### Hi there, I'm [Aaron Nobles][website] 👋
 
-## I'm an IT Professional, computer geek and web developer!
+## I'm an IT Professional, computer geek and networking enthusiast!
 
-[- 🌱 I’m currently learning AWS microservices and applying them][repo]
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become AWS certified, create more scalable web apps on AWS
+- 🥅 2021 Goals: Become CCNA certified, learn Network automation using Python
 - ⚡ Fun fact: I love to go to the gym
 
 ### Connect with me:
@@ -35,4 +34,3 @@
 
 [website]: http://www.aaronnobles.com
 [linkedin]: https://www.linkedin.com/in/aaronlnobles/
-[Repo]: https://github.com/Aaron24000/react-node-aws
