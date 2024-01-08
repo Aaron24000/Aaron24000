@@ -3,7 +3,7 @@
 ## I'm an IT Professional, computer geek and networking enthusiast!
 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Become CCNA certified, learn Network automation using Python
+- 🥅 2024 Goals: Become DevNet certified, learn Network automation using Python, get CCNP ENCOR
 - ⚡ Fun fact: I love to go to the gym
 
 ### Connect with me:
